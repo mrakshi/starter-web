@@ -13,6 +13,8 @@ A Simple Introduction about project website
 ## Deployment
 Deploying application to the webserver or local system files
 
+## Gow To Contribute
+
 ## Copyright
 
 Copyright 2021 notice
