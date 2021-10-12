@@ -15,4 +15,4 @@ Deploying application to the webserver or local system files
 
 ## Copyright
 
-Copyright 2021
+Copyright 2021 notice
